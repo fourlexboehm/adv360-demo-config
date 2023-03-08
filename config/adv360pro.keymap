@@ -43,8 +43,8 @@
             bindings = <
          
                 ___       ___       ___       ___       ___       ___       ___            ___       ___       ___       ___       ___       ___       ___
-                ___       &kp SQT   &kp COMMA &kp DOT   &kp P     &kp Y     &tog 3         &none     &kp F     &kp G     &kp C     &kp R     &kp L     &kp FSLH
-                ___       &kp A     &kp O     &kp E     &kp U     &kp I     &none          &none     &kp D     &kp H     &kp T     &kp N     &kp S     &kp BSLH
+                ___       &kp SQT   &kp COMMA &kp DOT   &kp P     &kp Y     ___            ___       &kp F     &kp G     &kp C     &kp R     &kp L     &kp FSLH
+                ___       &kp A     &kp O     &kp E     &kp U     &kp I     ___            ___       &kp D     &kp H     &kp T     &kp N     &kp S     &kp BSLH
                 ___       &kp SEMI  &kp Q     &kp J     &kp K     &kp X                              &kp B     &kp M     &kp W     &kp V     &kp Z     ___
                 ___       ___       ___       ___       ___                                                    ___       ___       ___       ___       ___
                                                                   ___       ___            ___       ___
